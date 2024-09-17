@@ -1,5 +1,7 @@
 E-commerce REST API in Go from https://github.com/sikozonpc
 
-using JWT authentication,and connecting our server to a MySQL
+Using JWT authentication,and connecting our server to a MySQL
+
+DATABASE:
 
 ![DB](assets/DB.png)
